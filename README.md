@@ -1,2 +1,2 @@
 # samarthak
-Hrand sign to speech/text
+Hand sign to speech/text
